@@ -3,4 +3,4 @@
 .ipynb_checkpoints/
 .pyenv-version
 .DS_store
-.haarcascades/
+haarcascades/
