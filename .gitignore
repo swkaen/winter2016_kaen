@@ -1,0 +1,5 @@
+*.jpg
+*.png
+.ipynb_checkpoints/
+.pyenv-version
+.DS_store
